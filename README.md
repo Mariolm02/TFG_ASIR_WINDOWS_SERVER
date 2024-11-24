@@ -72,7 +72,7 @@ Este proyecto documenta la instalación, configuración y administración de sis
 
 Clonar este repositorio:
 
-git clone https://github.com/Mariolm02/TFG_ASIR_WINDOWS_SERVER/blob/main/ProyectoIntegrado%20(PI)%20-LorcaMarquezMarioJavier.rar
+git clone https://github.com/Mariolm02/TFG_ASIR_WINDOWS_SERVER.git
 
 ---
 

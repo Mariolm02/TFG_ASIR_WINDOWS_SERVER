@@ -16,6 +16,7 @@ Este proyecto documento la instalación, configuración y administración de sis
   Diseño de red en Cisco Packet Tracer.
 
 3. Servicios Configurados:
+
   DNS:
     Configuración de zona directa e inversa.
     Incorporación de clientes al dominio.
@@ -54,10 +55,6 @@ Este proyecto documento la instalación, configuración y administración de sis
   Simulación de restauración tras pérdida de datos.
 
 
-
-
-
-
 # 🛠️ Herramientas Utilizadas
 
 Windows Server 2022: Servidor principal para la gestión de servicios.
@@ -73,7 +70,6 @@ Clonar este repositorio:
 
   *git clone https://github.com/tu_usuario/tu_repositorio.git*
 
-Revisa los documentos y scripts en cada directorio para seguir las configuraciones.
 Sigue el manual incluido en el proyecto para replicar los pasos en tu entorno.
 
 
